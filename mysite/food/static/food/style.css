@@ -1,0 +1,8 @@
+body {
+    background-color: yellowgreen;
+    color: blue; /* Text color of the body */
+}
+
+p {
+    color: brown; /* Text color for all <p> elements */
+}
